@@ -1,11 +1,11 @@
-Node.js CRUD API with MSSQL
-Project Overview
+#Node.js CRUD API with MSSQL
+#Project Overview
 
 This project is a simple CRUD (Create, Read, Update, Delete) REST API built using Node.js, Express, and Microsoft SQL Server (MSSQL).
 
 The goal of this task is to demonstrate basic backend development skills, proper project structure, and database integration.
 
-Technology Stack
+#Technology Stack
 
 Backend: Node.js (Express.js)
 
@@ -16,7 +16,7 @@ Database Access: mssql package
 Tools: Postman (for API testing)
 
 
-API Endpoints
+#API Endpoints
 
 | Method | Endpoint     | Description       |
 | ------ | ------------ | ----------------- |
@@ -26,6 +26,6 @@ API Endpoints
 | PUT    | `/users/:id` | Update user by ID |
 | DELETE | `/users/:id` | Delete user by ID |
 
-Conclusion
+#Conclusion
 
 This project demonstrates a clean and simple implementation of a CRUD API using Node.js and MSSQL, following basic backend development best practices.
